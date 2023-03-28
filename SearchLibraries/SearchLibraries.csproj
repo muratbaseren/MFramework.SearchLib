@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>MFramework.SearchLib</PackageId>
+    <Title>MFramework.SearchLib</Title>
+    <Authors>muratbaseren</Authors>
+    <Company>muratbaseren</Company>
+    <Product>MFramework.SearchLib</Product>
+    <Description>This library includes Linear Search (Doðrusal Arama), Binary Search (Ýkili Arama), Interpolation Search (Ýnterpolasyon Aramasý), Exponential Search (Üstel Arama), Jump Search (Atlama Aramasý), Fibonacci Search (Fibonacci Aramasý), Ternary Search (Üçlü Arama), Depth-First Search (DFS - Derinlik-Öncelikli Arama), Breadth-First Search (BFS - Geniþlik-Öncelikli Arama), A* Search (A yýldýz Aramasý), Dijkstra's Algorithm (Dijkstra Algoritmasý), Greedy Best First Search (Açgözlü En Ýyi-Öncelikli Arama), Hill Climbing (Tepe Týrmanma).</Description>
+    <PackageProjectUrl>https://github.com/muratbaseren/MFramework.SearchLib</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/muratbaseren/MFramework.SearchLib</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
